@@ -1,2 +1,6 @@
 #running log file
 *.log
+*.log_*
+
+#eps image
+*.eps
