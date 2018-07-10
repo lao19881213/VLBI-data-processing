@@ -2,5 +2,6 @@
 *.log
 *.log_*
 
-#eps image
+#eps or ps image file
 *.eps
+*.ps
